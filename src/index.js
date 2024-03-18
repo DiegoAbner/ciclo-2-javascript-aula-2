@@ -45,7 +45,7 @@ var a = 5;
 console.log(b);
 //let b = 10;
 
-//R: No console.Lo(a) ocorre o Hoisting da variável para o topo. No console.log(b) a variavel b não foi declarada
+//R: No console.Log(a) ocorre o Hoisting da variável para o topo. No console.log(b) a variavel b não foi declarada
 /////////////////////////////////////////////////////////////////////////////////
 
 //No código abaixo apresenta um erro, qual?
